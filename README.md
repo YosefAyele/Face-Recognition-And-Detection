@@ -1,6 +1,6 @@
 ## Face Recognition and Detection using Eigenfaces and Fisherfaces
 
-## Overview
+### Overview
 
 This repository contains an implementation of face recognition and detection using Eigenfaces and Fisherfaces algorithms. The initial implementation is based on the Yale Face Database, but there are plans to transition to a custom dataset collected from 4th-year students in the AI department at AAiT (Addis Ababa Institute of Technology). Please note that this transition is an ongoing process.
 
