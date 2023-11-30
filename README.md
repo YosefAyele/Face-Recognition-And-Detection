@@ -1,5 +1,4 @@
-# Face-Recognition-And-Detection
-# Face Recognition and Detection using Eigenfaces and Fisherfaces
+## Face Recognition and Detection using Eigenfaces and Fisherfaces
 
 ## Overview
 
