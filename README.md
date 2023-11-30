@@ -21,4 +21,6 @@ You can install these dependencies using the following command:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
+```
+
 As of now, the implementation uses the Yale Face Database. However, we are actively collecting a new dataset from 4th-year students in the AI department at AAiT. The dataset will be incorporated into the project once the collection process is complete.
